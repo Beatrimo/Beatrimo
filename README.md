@@ -1,5 +1,5 @@
-### Hello there 👋
-### This is Frank!
+## Welcome to My GitHub Page!
+
 
 Hello! I'm Sizhe Li, and I'm thrilled to welcome you to my GitHub page. I recently completed my Master's degree in Computer Science at Worcester Polytechnic Institute (WPI)
 I'm always eager to connect with fellow developers, researchers, and technology enthusiasts. If you have any questions, suggestions, or just want to chat about tech, don’t hesitate to reach out to me.
